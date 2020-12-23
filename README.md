@@ -25,5 +25,5 @@
 
 ## SCREENSHOTS 
 ![SCREENSHOT](https://github.com/adelxh/to-do/blob/master/s1.PNG)
-![SCREENSHOT]()
+![SCREENSHOT](https://github.com/adelxh/to-do/blob/master/s2.PNG)
 ![SCREENSHOT]()

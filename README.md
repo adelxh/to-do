@@ -26,4 +26,6 @@
 ## SCREENSHOTS 
 ![SCREENSHOT](https://github.com/adelxh/to-do/blob/master/s1.PNG)
 ![SCREENSHOT](https://github.com/adelxh/to-do/blob/master/s2.PNG)
+
+## MOBILE RESPONSIVE DESIGN
 ![SCREENSHOT](https://github.com/adelxh/to-do/blob/master/s3.PNG)

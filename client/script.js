@@ -28,11 +28,11 @@ inputValue.addEventListener("keyup", (event) => {
 
 // Add a "checked" symbol when clicking on a list item
 var list = document.querySelector('ul');
-list.addEventListener('keyup', function(ev) {
-    if(ev.key === 13) {
+list.addEventListener('click', function(ev) {
+
   if (ev.target.tagName === 'LI') {
     ev.target.classList.toggle('checked');
-  }
+  
   }
 }, false);
 
